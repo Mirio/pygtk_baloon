@@ -1,0 +1,18 @@
+Use:
+import pygtk_baloon
+pygtk_baloon.baloon(title,message,timeout,position)
+
+-------------------------
+Timeout is in ms.
+Position:
+1 = Up Left
+2 = Up Right
+3 = Bottom left
+4 = Bottom right
+5 = Bottom left (Fixed Win32)
+6 = Bottom right (Fixed Win32)
+
+-------------------------
+Example:
+import pygtk_baloon
+pygtk_baloon.baloon("Try Title","Hello!!!", 10000, 4)
