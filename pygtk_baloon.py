@@ -1,5 +1,5 @@
 #                                    LICENSE BSD 2 CLAUSE                                       #
-#   Copyright 2011-2012 Mirio. All rights reserved.                                             #
+#   Copyright 2011 Mirio. All rights reserved.                                             #
 #   Redistribution and use in source and binary forms, with or without modification, are        #
 #   permitted provided that the following conditions are met:                                   #
 #       1. Redistributions of source code must retain the above copyright notice, this list of  #
